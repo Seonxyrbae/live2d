@@ -17,7 +17,7 @@
             "default": ["Hai~ datanglah dan goda aku!"]
         },
         "referrer_message": {
-            "localhost": ["Selamat menjelajah<span style=\"color:#0099cc;\">『", "』</span>", " - "],
+            "localhost": ["Selamat menjelajahi<span style=\"color:#0099cc;\">『", "』</span>", " - "],
             "baidu": ["Hello! Sahabat Animesia dari Baidu<br>Apa Yang Anda Cari? <span style=\"color:#0099cc;\">", "</span> 找到的我吗？"],
             "so": ["Hello! Sahabat Animesia dari 360<br>Apa Yang Anda Cari? <span style=\"color:#0099cc;\">", "</span> 找到的我吗？"],
             "google": ["Hello! Sahabat Animesia dari Google<br>Apa Yang Anda Cari? span style=\"color:#0099cc;\">『", "』</span>", " - "],
@@ -44,7 +44,7 @@
         { "selector": ".fui-home", "text": ["Klik untuk masuk ke halaman awal, jika ingin kembali ke halaman sebelumnya, Anda dapat menggunakan fungsi kembali dari browser"] },
         { "selector": ".fui-chat", "text": ["Setiap kata, setiap cemberut dan senyum. Satu kata dan satu kalimat, satu perahu dayung."] },
         { "selector": ".fui-eye", "text": ["Hmm... Apakah Anda ingin beralih Kanban Girl?"] },
-        { "selector": ".fui-user", "text": ["Ingin mendandani Waifu nya?"] },
+        { "selector": ".fui-user", "text": ["Ingin mengganti Pakaian nya?"] },
         { "selector": ".fui-photo", "text": ["Ingin mengambil foto kenang-kenangan?"] },
         { "selector": ".fui-info-circle", "text": ["berikut adalah informasi tentang saya"] },
         { "selector": ".fui-cross", "text": ["Bukankah kau menyukaiku.."] },
